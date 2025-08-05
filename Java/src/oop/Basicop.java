@@ -10,6 +10,7 @@ public class Basicop {
 		s1.name="Tasneem";
 		System.out.println(s1.yob+" "+s1.name);
 		System.out.println(s1.check());
+		System.out.println(s1.name+" "+s1.yob);
 	}
 	
 
